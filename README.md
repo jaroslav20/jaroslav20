@@ -1,6 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 ### <div id="header" align="center">Ярослав начинающий веб-разработчик самоучка</div>  
